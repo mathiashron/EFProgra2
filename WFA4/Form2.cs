@@ -77,7 +77,7 @@ namespace WFA4
            // entidadempleado.Apellido = textBox3.Text;
            // entidadempleado.Direccion = textBox4.Text;
             //entidadempleado.Edad = Convert.ToInt16(textBox5.Text);
-            entidadempleado.Id_profesor = Convert.ToInt16(comboBox1.SelectedValue);
+            entidadempleado.Id_profesor = Convert.ToInt16(comboBox1.SelectedItem);
         }
 
         private void button6_Click(object sender, EventArgs e)
@@ -124,15 +124,13 @@ namespace WFA4
 
                 comboBox1.Items.Insert(i, dt.Rows[i][0].ToString());
             }
-            //comboBox1.SelectedIndex = 0;
-            
-
-            //comboBox1.DataSource = dt;
-            //comboBox1.DisplayMember = "nombre";
-            //comboBox1.ValueMember = "id_materia";
-            //comboBox1.SelectedIndex = 0;
+            int selectedIndex = comboBox1.SelectedIndex;
+            Object selectedItem = comboBox1.SelectedItem;
         }
 
-        
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

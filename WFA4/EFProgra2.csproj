@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Menu.cs" />
     <Compile Include="estadisticas_colegio.cs" />
     <Compile Include="estadistica.cs" />
     <Compile Include="Controlador\ControladorEmpleado.cs" />

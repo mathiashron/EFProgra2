@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WFA4
 {
-    class estadistica
+    class estadistica 
     {
         estadisticas_colegio colegio = new estadisticas_colegio();
 

@@ -9,20 +9,20 @@ using System.IO;
 
 namespace WFA4
 {
-    class estadisticas_colegio
+    class estadisticas_colegio : estadistica
     {
         ControladorEmpleado controladorempleado = new ControladorEmpleado();
         EntidadEmpleado entidadempleado = new EntidadEmpleado();
-        int cantidadmenores = 0;
-        int cantidadmayores = 0;
+        private int cantidadmenores = 0;
+        private int cantidadmayores = 0;
         
-        int cont = 0;
+        private int cont = 0;
         DataTable estudiante = new DataTable();
         DataTable materia = new DataTable();
         DataTable profe = new DataTable();
-        int[,] cupo;
-        int[,] asistencia;
-        int[,] profesores;
+       private  int[,] cupo;
+        private int[,] asistencia;
+        private int[,] profesores;
         String[] menor5;
         String[] entre5y10;
         String[] mayo10;
