@@ -1,0 +1,41 @@
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\bin\Debug\WFA4.exe.config
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\bin\Debug\WFA4.exe
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\bin\Debug\WFA4.pdb
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\obj\Debug\WFA4.Form1.resources
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\obj\Debug\WFA4.Properties.Resources.resources
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\obj\Debug\WFA4.csproj.GenerateResource.Cache
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\obj\Debug\WFA4.exe
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\obj\Debug\WFA4.pdb
+c:\users\pcc\documents\visual studio 2013\Projects\WFA4\WFA4\obj\Debug\WFA4.csprojResolveAssemblyReference.cache
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.3\WFA4\bin\Debug\WFA4.exe.config
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.3\WFA4\obj\Debug\WFA4.exe
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.3\WFA4\obj\Debug\WFA4.pdb
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.3\WFA4\bin\Debug\WFA4.exe
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.3\WFA4\bin\Debug\WFA4.pdb
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.3\WFA4\bin\Debug\MySql.Data.dll
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.3\WFA4\obj\Debug\WFA4.Form1.resources
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.3\WFA4\obj\Debug\WFA4.Properties.Resources.resources
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.3\WFA4\obj\Debug\WFA4.csproj.GenerateResource.Cache
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.3\WFA4\obj\Debug\WFA4.csprojResolveAssemblyReference.cache
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.4\WFA4\bin\Debug\WFA4.exe.config
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.4\WFA4\obj\Debug\WFA4.exe
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.4\WFA4\obj\Debug\WFA4.pdb
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.4\WFA4\obj\Debug\WFA4.csprojResolveAssemblyReference.cache
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.4\WFA4\obj\Debug\WFA4.Form1.resources
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.4\WFA4\obj\Debug\WFA4.Properties.Resources.resources
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.4\WFA4\obj\Debug\WFA4.csproj.GenerateResource.Cache
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.4\WFA4\bin\Debug\WFA4.exe
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.4\WFA4\bin\Debug\WFA4.pdb
+C:\Users\jorge.aguilar\Documents\Personal\WFA4.4\WFA4\bin\Debug\MySql.Data.dll
+C:\Users\Programacion\Downloads\WFA4.4\WFA4\bin\Debug\WFA4.exe.config
+C:\Users\Programacion\Downloads\WFA4.4\WFA4\obj\Debug\WFA4.exe
+C:\Users\Programacion\Downloads\WFA4.4\WFA4\obj\Debug\WFA4.pdb
+C:\Users\Programacion\Downloads\WFA4.4\WFA4\bin\Debug\WFA4.exe
+C:\Users\Programacion\Downloads\WFA4.4\WFA4\bin\Debug\WFA4.pdb
+C:\Users\Programacion\Downloads\WFA4.4\WFA4\obj\Debug\WFA4.csprojResolveAssemblyReference.cache
+C:\Users\Programacion\Downloads\WFA4.4\WFA4\obj\Debug\WFA4.Form1.resources
+C:\Users\Programacion\Downloads\WFA4.4\WFA4\obj\Debug\WFA4.Properties.Resources.resources
+C:\Users\Programacion\Downloads\WFA4.4\WFA4\obj\Debug\WFA4.csproj.GenerateResource.Cache
+C:\Users\Matias Hroncich\Desktop\WFA4-MVC-master\WFA4\bin\Debug\WFA4.exe.config
+C:\Users\Matias Hroncich\Desktop\WFA4-MVC-master\WFA4\obj\Debug\WFA4.exe
+C:\Users\Matias Hroncich\Desktop\WFA4-MVC-master\WFA4\obj\Debug\WFA4.pdb

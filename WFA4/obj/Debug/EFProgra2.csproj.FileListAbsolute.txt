@@ -1,0 +1,33 @@
+C:\Users\Matias Hroncich\Desktop\WFA4-MVC-master\WFA4\obj\Debug\EFProgra2.csprojResolveAssemblyReference.cache
+C:\Users\Matias Hroncich\Desktop\WFA4-MVC-master\WFA4\obj\Debug\WFA4.Form1.resources
+C:\Users\Matias Hroncich\Desktop\WFA4-MVC-master\WFA4\obj\Debug\WFA4.Properties.Resources.resources
+C:\Users\Matias Hroncich\Desktop\WFA4-MVC-master\WFA4\obj\Debug\EFProgra2.csproj.GenerateResource.Cache
+C:\Users\Matias Hroncich\Desktop\WFA4-MVC-master\WFA4\obj\Debug\WFA4.exe
+C:\Users\Matias Hroncich\Desktop\WFA4-MVC-master\WFA4\obj\Debug\WFA4.pdb
+C:\Users\Matias Hroncich\Desktop\WFA4-MVC-master\WFA4\bin\Debug\WFA4.exe.config
+C:\Users\Matias Hroncich\Desktop\WFA4-MVC-master\WFA4\bin\Debug\WFA4.exe
+C:\Users\Matias Hroncich\Desktop\WFA4-MVC-master\WFA4\bin\Debug\WFA4.pdb
+C:\Users\Matias Hroncich\Desktop\WFA4-MVC-master\WFA4\obj\Debug\WFA4.Form2.resources
+C:\Users\Matias Hroncich\Desktop\WFA4-MVC-master\WFA4\obj\Debug\WFA4.Form3.resources
+C:\Users\Matias Hroncich\Desktop\EFProgra2\WFA4\bin\Debug\WFA4.exe.config
+C:\Users\Matias Hroncich\Desktop\EFProgra2\WFA4\obj\Debug\WFA4.exe
+C:\Users\Matias Hroncich\Desktop\EFProgra2\WFA4\obj\Debug\WFA4.pdb
+C:\Users\Matias Hroncich\Desktop\EFProgra2\WFA4\bin\Debug\WFA4.exe
+C:\Users\Matias Hroncich\Desktop\EFProgra2\WFA4\bin\Debug\WFA4.pdb
+C:\Users\Matias Hroncich\Desktop\EFProgra2\WFA4\obj\Debug\EFProgra2.csprojResolveAssemblyReference.cache
+C:\Users\Matias Hroncich\Desktop\EFProgra2\WFA4\obj\Debug\WFA4.Form2.resources
+C:\Users\Matias Hroncich\Desktop\EFProgra2\WFA4\obj\Debug\WFA4.Form3.resources
+C:\Users\Matias Hroncich\Desktop\EFProgra2\WFA4\obj\Debug\WFA4.Form1.resources
+C:\Users\Matias Hroncich\Desktop\EFProgra2\WFA4\obj\Debug\WFA4.Properties.Resources.resources
+C:\Users\Matias Hroncich\Desktop\EFProgra2\WFA4\obj\Debug\EFProgra2.csproj.GenerateResource.Cache
+C:\Users\mathias\Desktop\EFProgra2\WFA4\bin\Debug\WFA4.exe.config
+C:\Users\mathias\Desktop\EFProgra2\WFA4\obj\Debug\WFA4.exe
+C:\Users\mathias\Desktop\EFProgra2\WFA4\obj\Debug\WFA4.pdb
+C:\Users\mathias\Desktop\EFProgra2\WFA4\bin\Debug\WFA4.exe
+C:\Users\mathias\Desktop\EFProgra2\WFA4\bin\Debug\WFA4.pdb
+C:\Users\mathias\Desktop\EFProgra2\WFA4\obj\Debug\EFProgra2.csprojResolveAssemblyReference.cache
+C:\Users\mathias\Desktop\EFProgra2\WFA4\obj\Debug\WFA4.Form2.resources
+C:\Users\mathias\Desktop\EFProgra2\WFA4\obj\Debug\WFA4.Form3.resources
+C:\Users\mathias\Desktop\EFProgra2\WFA4\obj\Debug\WFA4.Form1.resources
+C:\Users\mathias\Desktop\EFProgra2\WFA4\obj\Debug\WFA4.Properties.Resources.resources
+C:\Users\mathias\Desktop\EFProgra2\WFA4\obj\Debug\EFProgra2.csproj.GenerateResource.Cache

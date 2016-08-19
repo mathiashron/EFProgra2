@@ -1,0 +1,38 @@
+Curso - CantidadEstudiantes
+Programacion        -       2
+Contabilidad        -       1
+Administracion        -       1
+Sistemas        -       0
+computacion        -       0
+Profesor - CantidadEstudiantes
+juan        -       0
+pedros        -       2
+rodrigo        -       1
+Raul        -       1
+Natalia        -       0
+Lorena        -       0
+Profesores menores a 5 materias
+juan
+pedros
+rodrigo
+Raul
+Natalia
+Lorena
+Profesores entre 5 y 10 materias
+
+
+
+
+
+
+Profesores mayores a 10 materias
+
+
+
+
+
+
+Mayores
+2
+Menores
+2
