@@ -9,7 +9,7 @@ using System.IO;
 
 namespace WFA4
 {
-    class estadisticas_colegio : estadistica
+    class estadisticas_colegio
     {
         ControladorEmpleado controladorempleado = new ControladorEmpleado();
         EntidadEmpleado entidadempleado = new EntidadEmpleado();
