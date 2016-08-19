@@ -1,13 +1,13 @@
 Curso - CantidadEstudiantes
-Programacion        -       2
-Contabilidad        -       1
+Programacion        -       1
+Contabilidad        -       2
 Administracion        -       1
 Sistemas        -       0
 computacion        -       0
 Profesor - CantidadEstudiantes
 juan        -       0
-pedros        -       2
-rodrigo        -       1
+pedros        -       1
+rodrigo        -       2
 Raul        -       1
 Natalia        -       0
 Lorena        -       0

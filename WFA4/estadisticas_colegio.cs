@@ -15,7 +15,7 @@ namespace WFA4
         EntidadEmpleado entidadempleado = new EntidadEmpleado();
         private int cantidadmenores = 0;
         private int cantidadmayores = 0;
-        
+        int generado = 0;
         private int cont = 0;
         DataTable estudiante = new DataTable();
         DataTable materia = new DataTable();
@@ -28,6 +28,7 @@ namespace WFA4
         String[] mayo10;
         public void generar()
         {
+            generado = 1;
             cantidadmenores = 0;
             cantidadmayores = 0;
 
@@ -173,63 +174,76 @@ namespace WFA4
 
         }
 
-        public void mostrar() { 
+        public void mostrar()
+        {
+
+
+            if (generado == 1)
+            {
                 Console.WriteLine("Curso - CantidadEstudiantes");
 
-            for(int x = 0; x < materia.Rows.Count; x++)
-            {
-                Console.Write(materia.Rows[x][1].ToString());
-                Console.Write("        -       ");
-                Console.WriteLine(cupo[x, 1]);
-            }
-            Console.WriteLine("Profesor - CantidadEstudiantes");
-            
-            for (int x = 0; x < profe.Rows.Count; x++)
-            {
-                
+                for (int x = 0; x < materia.Rows.Count; x++)
+                {
+                    Console.Write(materia.Rows[x][1].ToString());
+                    Console.Write("        -       ");
+                    Console.WriteLine(cupo[x, 1]);
+                }
+                Console.WriteLine("Profesor - CantidadEstudiantes");
 
-                Console.Write(profe.Rows[x][1].ToString());
-                
-                Console.Write("        -       ");
-                Console.WriteLine(asistencia[x, 1]);
-               
+                for (int x = 0; x < profe.Rows.Count; x++)
+                {
 
-            }
-            Console.WriteLine("Profesor - Cantidad Materias");
 
-            for (int x = 0; x < profe.Rows.Count; x++)
-            {
+                    Console.Write(profe.Rows[x][1].ToString());
+
+                    Console.Write("        -       ");
+                    Console.WriteLine(asistencia[x, 1]);
+
+
+                }
+                Console.WriteLine("Precione una tecla para continual con el reporte.");
+                Console.ReadKey();
+                Console.WriteLine("Profesor - Cantidad Materias");
                 
-                
+                for (int x = 0; x < profe.Rows.Count; x++)
+                {
+
+
                     Console.Write(profe.Rows[x][1].ToString());
 
                     Console.Write("        -       ");
                     Console.WriteLine(profesores[x, 1]);
                 }
-            Console.WriteLine("Profesores menores a 5 materias");
-            for (int x = 0; x < profe.Rows.Count; x++)
-            {
-                Console.WriteLine(menor5[x]);
-            }
-            Console.WriteLine("Profesores entre 5 y 10 materias");
-            for (int x = 0; x < profe.Rows.Count; x++)
-            {
-                Console.WriteLine(entre5y10[x]);
-            }
-            Console.WriteLine("Profesores mayores a 10 materias");
-            for (int x = 0; x < profe.Rows.Count; x++)
-            {
-                Console.WriteLine(mayo10[x]);
-            }
+                Console.WriteLine("Profesores menores a 5 materias");
+                for (int x = 0; x < profe.Rows.Count; x++)
+                {
+                    Console.WriteLine(menor5[x]);
+                }
+                Console.WriteLine("Profesores entre 5 y 10 materias");
+                for (int x = 0; x < profe.Rows.Count; x++)
+                {
+                    Console.WriteLine(entre5y10[x]);
+                }
+                Console.WriteLine("Profesores mayores a 10 materias");
+                for (int x = 0; x < profe.Rows.Count; x++)
+                {
+                    Console.WriteLine(mayo10[x]);
+                }
 
 
-            Console.WriteLine("Mayores");
-            Console.WriteLine(cantidadmayores);
-            Console.WriteLine("Menores");
-            Console.WriteLine(cantidadmenores);
-            Console.ReadKey();
+                Console.WriteLine("Mayores");
+                Console.WriteLine(cantidadmayores);
+                Console.WriteLine("Menores");
+                Console.WriteLine(cantidadmenores);
+                Console.ReadKey();
+            }
+            else
+            {
+                Console.WriteLine("Aun no genero el reporte");
+                Console.ReadKey();
+            }
+        
         }
-
         public void imprimir()
         {
             string currentPath = Path.Combine(Directory.GetParent(System.IO.Directory.GetCurrentDirectory()).Parent.FullName);
